@@ -1,46 +1,50 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Preface
+tagline: (quote from Guido van Rossum) 
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+---
+Beautiful is better than ugly.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+Explicit is better than implicit.
 
-## Update Author Attributes
+Simple is better than complex.
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+Complex is better than complicated.
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+Flat is better than nested.
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+Sparse is better than dense.
 
-    $ rm -rf _posts/core-samples
+Readability counts.
 
-Here's a sample "posts list".
+Special cases aren't special enough to break the rules.
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+Although practicality beats purity.
 
-## To-Do
+Errors should never pass silently.
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+Unless explicitly silenced.
 
+In the face of ambiguity, refuse the temptation to guess.
+
+There should be one-- and preferably only one --obvious way to do it.
+
+Although that way may not be obvious at first unless you're Dutch.
+
+Now is better than never.
+
+Although never is often better than *right* now.
+
+If the implementation is hard to explain, it's a bad idea.
+
+If the implementation is easy to explain, it may be a good idea.
+
+Namespaces are one honking great idea -- let's do more of those!
+
+---
+
+### I am living in Chengdu, China. Feel free to drop me a line: <mailto:sindon@gmail.com> ###
 
