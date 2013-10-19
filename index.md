@@ -5,7 +5,6 @@ tagline: (quote from Guido van Rossum)
 ---
 {% include JB/setup %}
 
----
 Beautiful is better than ugly.
 
 Explicit is better than implicit.
