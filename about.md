@@ -9,4 +9,4 @@ tagline: me
 
 I'm a python / ruby / iOS developer. concerned about mobile, game etc.
 
-[Twitter](http://twitter.com/seandong) / [Weibo](http://weibo.com/dongzhengxuan) / [Github](http://github.com/seandong)
+[twitter](http://twitter.com/seandong) / [weibo](http://weibo.com/dongzhengxuan) / [github](http://github.com/seandong)
